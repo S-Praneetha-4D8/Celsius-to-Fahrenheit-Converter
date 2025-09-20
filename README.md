@@ -1,2 +1,2 @@
-# Celsius-to-Fahrenheit-Converter
-A simple Python program that converts temperature from Celsius to Fahrenheit using the standard formula F = (9/5) * C + 32
+c=float(input())
+print('Temperature from celsius to farenheit is:',((9/5)*c)+32)
